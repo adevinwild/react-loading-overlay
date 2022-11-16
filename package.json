@@ -48,6 +48,9 @@
       "limit": "10 KB"
     }
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@babel/core": "^7.20.2",
     "@size-limit/preset-small-lib": "^8.1.0",
