@@ -3,6 +3,14 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "keywords": [
+    "react",
+    "ui",
+    "component",
+    "loading",
+    "loading overlay",
+    "overlay"
+  ],
   "files": [
     "dist",
     "src"
