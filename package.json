@@ -3,20 +3,12 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "keywords": [
-    "react",
-    "ui",
-    "component",
-    "loading",
-    "loading overlay",
-    "overlay"
-  ],
   "files": [
     "dist",
     "src"
   ],
   "engines": {
-    "node": ">=10"
+    "node": ">=14"
   },
   "scripts": {
     "start": "tsdx watch",
@@ -45,7 +37,20 @@
   },
   "name": "@horhorou/react-loading-overlay",
   "author": "horhorou",
+  "description": "A beautiful and lightweight loading overlay component for React",
   "module": "dist/react-loading-overlay.esm.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/horhorou/react-loading-overlay"
+  },
+  "keywords": [
+    "react",
+    "ui",
+    "component",
+    "loading",
+    "loading overlay",
+    "overlay"
+  ],
   "size-limit": [
     {
       "path": "dist/react-loading-overlay.cjs.production.min.js",
